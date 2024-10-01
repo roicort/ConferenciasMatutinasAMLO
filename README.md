@@ -24,7 +24,7 @@ Presidencia de la República | Fecha
 ## Cita
 
 ```
-@misc{narimatsu2021task,
+@misc{conferenciasamlo,
   title={Conferencias Mañaneras del Presidente Andrés Manuel López Obrador},
   author={Rodrigo Cortez-Madrigal},
   pages={258},
